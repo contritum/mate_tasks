@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>123123123123</title>
+    <title>1</title>
   </head>
   <body>
     <p>432</p>
